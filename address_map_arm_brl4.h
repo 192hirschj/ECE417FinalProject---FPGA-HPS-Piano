@@ -1,4 +1,6 @@
 /* This files provides address values that exist in the system */
+/* This library came from: https://people.ece.cornell.edu/land/courses/ece5760/DE1_SOC/HPS_peripherials/
+univ_pgm_computer.index.html */
 
 #define BOARD                 "DE1-SoC"
 
