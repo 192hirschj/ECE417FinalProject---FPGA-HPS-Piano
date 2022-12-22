@@ -2,6 +2,8 @@
 /// Audio
 /// compile with
 /// gcc media_brl4_5_audio.c -o testA -lm
+/* This code was created using a template from: https://people.ece.cornell.edu/land/courses/ece5760/DE1_SOC/HPS_peripherials/
+univ_pgm_computer.index.html */
 ///////////////////////////////////////
 #include <stdio.h>
 #include <stdlib.h>
